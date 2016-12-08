@@ -20,7 +20,8 @@
 
 4. Download a PDF of "New Map of Florida, 1860," which is mislabeled, from the Maps ETC website: http://fcit.usf.edu/florida/maps/index.htm
 
-   * Use your image viewer software [ie Microsoft Picture Manager] to convert the JPG file to TIFF. See below for more details.
+   *  How to Convert map-image files
+     From JPG to TIFF: Most image viewers will do this. For PC, use  www.irfanview.com [pc] or Microsoft Picture Manager. Mac        users, however, can simply Save As or Export in their image viewer and toggle to TIFF.    From SID to TIFF;              irfanview can do this; search the web for other utilities
 
 5. Now you will open the georeferencer. Under "Raster," you will select "Georeferencer." A new window will pop up. It is recommended that you adjust your windows so that you can more easily toggle back and forth between your canvas and the georeferencer.
 
@@ -63,6 +64,4 @@
 # Data sources for this tutorial
 1. Basemaps: http://www.fgdl.org/metadataexplorer/explorer.jsp -- search for "FLORIDA COUNTY BOUNDARIES - SEPTEMBER 2015" and "CITY LIMITS - DERIVED FROM FLORIDA PARCEL DATA - 2014"
 2. Historic maps: Florida Maps ETC: http://fcit.usf.edu/florida/maps/index.htm
-# How to Convert map-image files
-- From JPG to TIFF: Most image viewers will do this. For PC, use  www.irfanview.com [pc] or Microsoft Picture Manager. Mac users, however, can simply Save As or Export in their image viewer and toggle to TIFF.
-- From SID to TIFF; irfanview can do this; search the web for other utilities
+
