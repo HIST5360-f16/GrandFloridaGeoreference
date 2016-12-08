@@ -1,4 +1,6 @@
 # Florida in QGIS: Geo-referencing Historical Maps
+![Florida Flag](/Florida Flag.jpg)
+
 [originally used Monday, April 4, 2016, adapted Friday, September 16, 2016.]
 ### This tutorial is designed so you can practice the skills you learned in  the [Programming Historian QGIS Tutorial “Geo-referencing in QGIS”]( http://programminghistorian.org/lessons/georeferencing-qgis "Links to Programming Historian")
 
