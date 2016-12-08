@@ -9,6 +9,7 @@
 ![CRS Selection](/Screenshots/CRS.png)
 
 2. Make sure you have the Georeferencing plug-in installed by clicking on "Plugins" and then "Manage and Install Plugins." Georeferencer GDAL should have a checkmark by it.
+![Screenshot2](/Screenshot2.png)
 
 3. Now you will set up your modern georeferencing canvas.
 
